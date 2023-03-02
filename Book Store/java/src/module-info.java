@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author nfulare
+ *
+ */
+module java {
+}
